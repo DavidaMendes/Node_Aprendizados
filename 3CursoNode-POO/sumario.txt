@@ -1,0 +1,24 @@
+Conhecimento de objetos, Arrays em Objetos e metodos
+    objetosPart1 - Conhecendo um pouco de objetos e como ele interrage.
+    objetosPart2 - Como exibir os objetos.
+    objetosPart3 && alterandoObejto - Adição, manipulação e delete de dados do objeto.
+    objetosPart4 - Array de objetos e como acessa-los, modifica-los, adicion-los e filtra-los
+    objetosPart5 - Criação de métodos
+    objetosPart6 - Entendimento de Copia de objetos
+Percorrendo Objetos 
+    objPart1 - Percorrendo Array
+    objPart2 - Métodos de Objeto, pegando keys e values
+    objPart3 - Operador de Espalhamento
+    objPraticando - Praticando com objeto
+EstudosJson
+    importalJson - Mexendo e importando JSON
+    convertendoJson - Operações de JSON, transformnando em JSON e STRING e explora clonagem profunda
+    bibliotecaJson - Push no JSON de um novo objeto 
+    encontrarEstudantes e filtrarEstudantes - filtra propriedades de objetos usando callbacks
+    ordenarEstudantes - 
+
+Estudo Json - JavaScript Object Notation
+Uma forma de armazenar dados, parecido com o Objeto do Json
+- Não são permitidos funções
+- Não pode comentarios
+- Não pode a ultima virgula
